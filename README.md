@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# This project will produce something similar to the below image:
+![Alt text](ReactAppImage.png "Speech To Text")
+
 ## Available Scripts
 
 In the project directory, you can run:
