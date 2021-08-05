@@ -2,8 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# This project will produce something similar to the below image:
+## This project will produce something similar to the below image:
 ![Alt text](ReactAppImage.png "Speech To Text")
+
+For this project I have built a React application that showcases the Speech to Text capabilities Amplify offers through its integration with AWS Transcribe. 
+- AWS Amplify: Helps you build web and mobile applications powered by AWS. Supports various web frameworks such as React, Angular, Vue, and mobile platforms such as Android and iOS.
+- AWS Transcribe: Auto-AI service that allows developers with no ML experience to integrate Speech to Text capabilities in their backend.
+
+
 
 ## Available Scripts
 
